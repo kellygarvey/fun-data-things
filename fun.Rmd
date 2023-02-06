@@ -1,0 +1,10 @@
+---
+title: "fun"
+author: "Kelly Garvey"
+date: "2023-02-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
